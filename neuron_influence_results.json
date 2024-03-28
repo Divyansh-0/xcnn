@@ -1,0 +1,264 @@
+{
+  "positive": [
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 1,
+      "image_path": "image_neuron_conv2d_1.png",
+      "cam_path": null,
+      "mean_weight": 0.0027224812656641006,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_1.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 4,
+      "image_path": "image_neuron_conv2d_4.png",
+      "cam_path": null,
+      "mean_weight": 0.004118714481592178,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_4.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 5,
+      "image_path": "image_neuron_conv2d_5.png",
+      "cam_path": null,
+      "mean_weight": 0.016202332451939583,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_5.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 30,
+      "image_path": "image_neuron_conv2d_30.png",
+      "cam_path": null,
+      "mean_weight": 0.006321555934846401,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_30.png"
+    }
+  ],
+  "negative": [
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 0,
+      "image_path": "image_neuron_conv2d_0.png",
+      "cam_path": null,
+      "mean_weight": -0.0045317900367081165,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_0.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 2,
+      "image_path": "image_neuron_conv2d_2.png",
+      "cam_path": null,
+      "mean_weight": -0.0062194885686039925,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_2.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 3,
+      "image_path": "image_neuron_conv2d_3.png",
+      "cam_path": null,
+      "mean_weight": -0.013094110414385796,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_3.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 6,
+      "image_path": "image_neuron_conv2d_6.png",
+      "cam_path": null,
+      "mean_weight": -0.0074021341279149055,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_6.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 7,
+      "image_path": "image_neuron_conv2d_7.png",
+      "cam_path": null,
+      "mean_weight": -0.0027179522439837456,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_7.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 8,
+      "image_path": "image_neuron_conv2d_8.png",
+      "cam_path": null,
+      "mean_weight": -0.001019270857796073,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_8.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 10,
+      "image_path": "image_neuron_conv2d_10.png",
+      "cam_path": null,
+      "mean_weight": -0.006815869826823473,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_10.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 11,
+      "image_path": "image_neuron_conv2d_11.png",
+      "cam_path": null,
+      "mean_weight": -0.0035973829217255116,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_11.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 12,
+      "image_path": "image_neuron_conv2d_12.png",
+      "cam_path": null,
+      "mean_weight": -0.005996522027999163,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_12.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 13,
+      "image_path": "image_neuron_conv2d_13.png",
+      "cam_path": null,
+      "mean_weight": -0.007128289435058832,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_13.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 15,
+      "image_path": "image_neuron_conv2d_15.png",
+      "cam_path": null,
+      "mean_weight": -0.007941952906548977,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_15.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 17,
+      "image_path": "image_neuron_conv2d_17.png",
+      "cam_path": null,
+      "mean_weight": -0.0010303808376193047,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_17.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 19,
+      "image_path": "image_neuron_conv2d_19.png",
+      "cam_path": null,
+      "mean_weight": -0.002473229542374611,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_19.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 20,
+      "image_path": "image_neuron_conv2d_20.png",
+      "cam_path": null,
+      "mean_weight": -0.002988332649692893,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_20.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 21,
+      "image_path": "image_neuron_conv2d_21.png",
+      "cam_path": null,
+      "mean_weight": -0.0014240681193768978,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_21.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 22,
+      "image_path": "image_neuron_conv2d_22.png",
+      "cam_path": null,
+      "mean_weight": -0.0010277947876602411,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_22.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 23,
+      "image_path": "image_neuron_conv2d_23.png",
+      "cam_path": null,
+      "mean_weight": -0.007066319230943918,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_23.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 24,
+      "image_path": "image_neuron_conv2d_24.png",
+      "cam_path": null,
+      "mean_weight": -0.0022006621584296227,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_24.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 26,
+      "image_path": "image_neuron_conv2d_26.png",
+      "cam_path": null,
+      "mean_weight": -0.011103619821369648,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_26.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 27,
+      "image_path": "image_neuron_conv2d_27.png",
+      "cam_path": null,
+      "mean_weight": -0.147203266620636,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_27.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 29,
+      "image_path": "image_neuron_conv2d_29.png",
+      "cam_path": null,
+      "mean_weight": -0.019146280363202095,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_29.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 31,
+      "image_path": "image_neuron_conv2d_31.png",
+      "cam_path": null,
+      "mean_weight": -0.0055799405090510845,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_31.png"
+    }
+  ],
+  "neutral": [
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 9,
+      "image_path": "image_neuron_conv2d_9.png",
+      "cam_path": null,
+      "mean_weight": -0.0008959982660599053,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_9.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 14,
+      "image_path": "image_neuron_conv2d_14.png",
+      "cam_path": null,
+      "mean_weight": 0.00031409936491400003,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_14.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 16,
+      "image_path": "image_neuron_conv2d_16.png",
+      "cam_path": null,
+      "mean_weight": 0.0002221898321295157,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_16.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 18,
+      "image_path": "image_neuron_conv2d_18.png",
+      "cam_path": null,
+      "mean_weight": 0.0005483831628225744,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_18.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 25,
+      "image_path": "image_neuron_conv2d_25.png",
+      "cam_path": null,
+      "mean_weight": 0.00032945224666036665,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_25.png"
+    },
+    {
+      "layer_name": "conv2d",
+      "neuron_number": 28,
+      "image_path": "image_neuron_conv2d_28.png",
+      "cam_path": null,
+      "mean_weight": -0.0003413949743844569,
+      "heatmap_path": "assets/heatmap_neuron_conv2d_28.png"
+    }
+  ]
+}

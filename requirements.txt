@@ -1,0 +1,9 @@
+streamlit 
+tensorflow==2.15.0
+keras==2.15.0
+matplotlib
+opencv-python
+python-dotenv
+google-generativeai
+langchain-google-genai  
+langchain
