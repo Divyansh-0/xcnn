@@ -1,0 +1,25 @@
+
+graph TD
+A[Lung X-ray Image] --> B{Influence Categories}
+B --> C[Positive]
+B --> D[Negative]
+B --> E[Neutral]
+
+C --> F[Upper Left Quadrant]
+F --> G[Consolidation, Air Bronchograms, Increased Density]
+G --> H{Supports Pneumonia}
+
+D --> I[Lower Right Quadrant]
+I --> J[Clear Lung Fields, No Consolidation or Air Bronchograms, Normal Density]
+J --> K{Suggests Normal Lung Tissue}
+
+E --> L[Middle of the Lung]
+L --> M[Mixed Appearance, No Definitive Signs]
+M --> N{No Clear Evidence}
+
+H --> O{Overall Analysis}
+K --> O
+N --> O
+
+O --> P{Model's Prediction: Pneumonia}
+

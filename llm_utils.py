@@ -14,9 +14,14 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # from langchain.chains import ConversationChain
 # from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
-
+from langchain_anthropic import ChatAnthropic
 import google.generativeai as genai
 
+
+def flow(txt):
+    chat_model = ChatAnthropic(temperature=0, model_name="claude-3-opus-20240229")
+    res = chat_model.invoke(txt)
+    return res
 
 
 
@@ -28,6 +33,8 @@ def fm_txt(txt):
 
 load_dotenv()
 API = os.getenv('GEM_API')
+CLI = os.getenv('CL_API')
+os.environ["ANTHROPIC_API_KEY"] = CLI
 genai.configure(api_key = API)
 os.environ["GOOGLE_API_KEY"] = API
 
@@ -110,6 +117,11 @@ def text_model(hprompt ):
 
     return res
 
+
+def text_model_rlhf(txt):
+    gem = ChatGoogleGenerativeAI(model="gemini-pro",temperature=0.2)
+    res = gem.invoke(txt)
+    return res
 
 
 
